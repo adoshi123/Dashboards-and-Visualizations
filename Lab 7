@@ -1,0 +1,20 @@
+Introduction
+The aim of this lab is too critique the orignal visualization done in lab 3 and propose a better way to represent it. Since I didn't do the visualization 
+I took my class mate nandini visualization to critique.
+
+## Critique on the Visualization
+https://public.tableau.com/profile/nandini6420#!/vizhome/Lab3_Financial_Impact_NR_V3_0/Labsession3
+
+The visualization in the above mentioned tableau public link, provides data to refute the claim that financial markets do not punish data breaches. The visualization has a clear data analysis on the stock prices from the years 2004-2017. With this data, line curves have been plotted across Stock price and consecuitve years. Then, certain organisations are chosen to check on the pattern on the breach and their respective financial market. The explanation for each curveline for every organisation describes when the breach happened and how the financial market has reacted to it. 
+
+## Roadmap for improvement
+The orignal visualization doesn't actually represent in the graph when did the data breah happen. Adding a point where data breach happened and
+actually will help us understand that in the same year was there a punish in the financial market.
+
+## Visualization Redesign
+Added a bar to show the lost data in which year and how much and adding a line graph for the price clearly shows what happened to the company stock price
+after that.
+
+
+## Tableau Public Link
+https://public.tableau.com/profile/aalap.doshi#!/vizhome/Lab7_42/Sheet1?publish=yes
